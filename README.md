@@ -7,7 +7,7 @@ In this project, I will explain how to make a PNG image responsive using Next.js
 Clone the local copy of the project:
 
 ```bash
-git clone https://github.com/username/project-name.git
+git clone https://github.com/eyup-canbudak/PNG-to-Next.js-and-Styled-css.git
 cd project-name
 ```
 
