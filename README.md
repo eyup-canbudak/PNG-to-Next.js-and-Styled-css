@@ -31,8 +31,9 @@ Below, you'll find a visual comparison between the original image we have and th
 
 # Original Images
 • Normal
-https://ibb.co/G2qhd50
+![Normal](https://ibb.co/G2qhd50)
 • Active
+![Active](images/design/active-states.jpg)
 https://ibb.co/xjjfpCk
 • Responsive
 https://ibb.co/r2KQy2f
