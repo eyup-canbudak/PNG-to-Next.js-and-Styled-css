@@ -1,3 +1,4 @@
+<center>
 # Project Desc
 
 In this project, I will explain how to make a PNG image responsive using Next.js and Styled CSS, starting with a PNG image we have on hand.
@@ -39,11 +40,11 @@ Below, you'll find a visual comparison between the original image we have and th
 
 # Result Images
 • Normal
-https://ibb.co/ZTgj36h
+![Normal](public/images/result/desktop-design.jpg)
 • Active
-https://ibb.co/4wLZVGL
+![Active](public/images/result/active-states.jpg)
 • Responsive
-https://ibb.co/b2XHJTj
+![Responsive](public/images/result/mobile-design.jpg)
 
 # Technologies Used
 The primary technologies used in this project are:
@@ -56,3 +57,4 @@ If you'd like to contribute to the project, please create a pull request. Your c
 
 # License
 No LICENSE
+</center>
