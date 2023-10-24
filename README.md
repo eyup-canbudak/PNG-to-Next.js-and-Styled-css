@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Project Desc
 
-## Getting Started
+In this project, I will explain how to make a PNG image responsive using Next.js and Styled CSS, starting with a PNG image we have on hand.
 
-First, run the development server:
+## How to Use?
 
+Clone the local copy of the project:
+
+```bash
+git clone https://github.com/username/project-name.git
+cd project-name
+```
+
+Install the required dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+Run the application:
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Visual Example
+Below, you'll find a visual comparison between the original image we have and the result of the project.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Original Images
+• Normal
+https://ibb.co/G2qhd50
+• Active
+https://ibb.co/xjjfpCk
+• Responsive
+https://ibb.co/r2KQy2f
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# Result Images
+• Normal
+https://ibb.co/ZTgj36h
+• Active
+https://ibb.co/4wLZVGL
+• Responsive
+https://ibb.co/b2XHJTj
 
-## Learn More
+# Technologies Used
+The primary technologies used in this project are:
 
-To learn more about Next.js, take a look at the following resources:
+• Next.js
+• Styled CSS
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Contributing
+If you'd like to contribute to the project, please create a pull request. Your contributions are welcome.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# License
+No LICENSE
