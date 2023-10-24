@@ -31,12 +31,11 @@ Below, you'll find a visual comparison between the original image we have and th
 
 # Original Images
 • Normal
-![Normal](https://ibb.co/G2qhd50)
+![Normal](public/images/design/desktop-design.jpg)
 • Active
-![Active](images/design/active-states.jpg)
-https://ibb.co/xjjfpCk
+![Active](public/images/design/active-states.jpg)
 • Responsive
-https://ibb.co/r2KQy2f
+![Responsive](public/images/design/mobile-design.jpg)
 
 # Result Images
 • Normal
