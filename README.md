@@ -49,6 +49,7 @@ Below, you'll find a visual comparison between the original image we have and th
 The primary technologies used in this project are:
 
 • Next.js
+• TypeScript
 • Styled CSS
 
 # Contributing
